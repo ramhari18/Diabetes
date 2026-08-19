@@ -135,12 +135,12 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("### 📋 Sections")
     st.markdown(
-        "- 👤 Personal Information\n"
-        "- 🏃 Lifestyle Information\n"
-        "- 🏥 Medical History\n"
-        "- 🧪 Clinical Measurements\n"
-        "- 🩸 Blood Test Results\n"
-        "- 🧬 Glucose & Insulin"
+        "- Personal Information\n"
+        "- Lifestyle Information\n"
+        "- Medical History\n"
+        "- Clinical Measurements\n"
+        "- Blood Test Results\n"
+        "- Glucose & Insulin"
     )
     st.markdown("---")
     st.caption("⚠️ For informational purposes only. Not a substitute for professional medical advice.")
